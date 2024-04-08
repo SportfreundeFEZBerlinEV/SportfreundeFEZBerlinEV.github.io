@@ -1,0 +1,101 @@
+body, textarea
+{
+ background-color: #f6dfc1;
+}
+#logo
+{
+ position: absolute;
+ top: 0px;
+ left: 50%;
+ width: 1000px;
+ height: 187px;
+ margin-left: -500px;
+ border: none;
+}
+#navi
+{
+ position: absolute;
+ top: 189px;
+ left: 50%;
+ width: 1000px;
+ height: 35px;
+ background-color: #f6dfc1;
+ margin-left: -500px;
+ border: none;
+ text-align: center;
+ font-color: #000000;
+ vertical-align: bottom;
+}
+#inhalt
+{
+ position: absolute;
+ top: 225px;
+ left: 50%;
+ width: 1000px;
+ height: auto;
+ background-color: #f6dfc1;
+ margin-left: -500px;
+ padding: 0px;
+ border: none;
+ text-align: left;
+}
+A
+{
+ color:#124b63;
+ text-decoration:none;
+ font-family:Verdana;
+ font-style:normal;
+ font-weight:bold;
+ font-size:11px;
+ text-shadow:black;
+}
+A:hover
+{
+ color:#000000;
+ text-decoration:underline;
+ font-family:Verdana;
+ font-style:normal;
+ font-weight:bold;
+ font-size:11px;
+ text-shadow:black;
+}
+A:active
+{
+ color:#124b63;
+ text-decoration:underline;
+ font-family:Verdana;
+ font-style:normal;
+ font-weight:bold;
+ font-size:11px;
+ text-shadow:black;
+}
+TD
+{
+ color:#124b63;
+ text-decoration:none;
+ font-family:Verdana;
+ font-style:normal;
+ font-weight:normal;
+ font-size:11px;
+ text-shadow:black;
+}
+H3
+{
+ color:#124b63;
+ text-decoration:none;
+ font-family:Verdana;
+ font-style:bold;
+ font-weight:bold;
+ font-size:14px;
+ text-shadow:black;
+}
+H5
+{
+ color:#124b63;
+ text-decoration:none;
+ font-family:Verdana;
+ font-style:bold;
+ font-weight:bold;
+ font-size:12px;
+ text-shadow:black;
+}

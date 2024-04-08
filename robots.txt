@@ -1,0 +1,6 @@
+# robots.txt zu http://www.tt-fez.de/
+
+User-agent: *
+Disallow: /event/
+Disallow: /impressum/
+Disallow: /downloads/
